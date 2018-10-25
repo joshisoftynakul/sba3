@@ -11,7 +11,7 @@ public class Customer {
 	
 	@Id
 	int id;
-	String name;
+	String name; 
 	String date;
 	String city;
 	int contact;
